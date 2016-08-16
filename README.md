@@ -1,5 +1,4 @@
 # Mistakes
-这是当编程中的一些错误集锦
 
 
 1、依据: html中，当元素为undefined的时，if判断为false。
